@@ -1,0 +1,13 @@
+canvas {
+  background-color: #cccccc;
+  border: 1px solid #000000;
+  margin-top: 10px;
+}
+.buttons-container {
+  margin-top: 20px;
+}
+.buttons-container .music-btn {
+  width: 100px;
+  height: 100px;
+  margin-top: 50px;
+}
